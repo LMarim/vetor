@@ -33,7 +33,7 @@ Inicio
    fimpara
 
    para i de 1 ate 5 faca
-      escreval("o",i,"ª numero informado foi",numero[i])
+      escreval("o",i,"° numero informado foi",numero[i])
    fimpara
 
    escreval("o maior número é: ",maiorNumero)
